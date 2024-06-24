@@ -16,9 +16,3 @@ Este es un modelo de una red neuronal que traduce Lengua de Señas Peruana (LSP)
 2. Generar los .h5 (keypoints) de cada palabra con create_keypoints.py
 3. Entrenar el modelo con training_model.py
 4. Realizar pruebas con evaluate_model.py
-
-## Observaciones
-La información que está en Data puede que no funcione para versiones diferentes de Python a la que usé en el video (3.11.3). Así que se recomienda volver a generar los keypoints.
-
-## Video de la explicación del código:
-https://youtu.be/3EK0TxfoAMk 
